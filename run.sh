@@ -1,4 +1,4 @@
 #!/bin/sh
 echo 'Test1'
-python3 DNA.py
+python3 /autograder/submission/DNA.py
 echo 'Test2'
