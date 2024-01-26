@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 DNA.py
+python DNA.py
