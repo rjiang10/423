@@ -1,2 +1,4 @@
 #!/bin/bash
-python DNA.py
+echo 'Test1'
+python3 DNA.py
+echo 'Test2'
