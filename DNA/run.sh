@@ -1,4 +1,4 @@
 #!/bin/sh
 echo 'Test1'
-python3 /main/DNA.py
+python3 ./DNA.py
 echo 'Test2'
